@@ -1,7 +1,8 @@
 For this project you Will need to use the two following datasets:
 
 Filtered images:
-This dataset contains the images used to train and test the model. They come from a dataset available in Tensorflow, called standford dogs. 
+This dataset contains the images used to train and test the model. They come from a dataset available in Tensorflow, called standford dogs.
+In this case, I used standford dogs, and Filtered the four breeds needed: golden retriever, german shepherd, french bulldog and poodle.
 
 Download it here:
 https://drive.google.com/file/d/10x5VoRR9ptssEDIDcjP9_qxQqXU3gMWm/view?usp=drivesdk
